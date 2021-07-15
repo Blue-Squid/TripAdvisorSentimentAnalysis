@@ -9,6 +9,7 @@ TO-DO: <br>
     <ol>
       <li>3 layer nn with suitable hyper-params. </li>
       <li>LSTM in conjunction with Conv1D </li>
+      <li>Experiment with keras-tuner to find optimal algo params. 
   </ol>
   <li>Target Accuracy: 70% for test set. </li> 
   </ul> 
